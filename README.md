@@ -1,2 +1,2 @@
 # Starlight
-Student Game Project Prototype
+Deckbuilding Game Prototype
